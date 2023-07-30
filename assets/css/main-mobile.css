@@ -1,0 +1,58 @@
+@media screen and (max-width: 670px) {
+
+    .div-header {
+        height: 40px;
+    }
+
+    .div-header .div-name {
+        font-size: 20px;
+    }
+
+    .div-header .div-name .img-logo {
+        width: 44px;
+    }
+
+    .div-header .div-nav-actions {
+        display: none;
+    }
+
+    .div-section.first {
+        font-size: 24px;
+        padding-top: 20%;
+    }
+
+    .div-section.first .div-sub-title {
+        font-size: 16px;
+    }
+
+    .div-section.first .div-sub-title.small {
+        font-size: 14px;
+    }
+
+    .div-section.first .img-logo {
+        width: 120px;
+        margin-top: -5px;
+    }
+
+    .div-section.second {
+        padding: 25px 10%;
+        width: 80%;
+        padding-bottom: 200px;
+    }
+
+
+
+    .div-technologies-table {
+        width: 80%;
+        display: block;
+    }
+
+    .div-technologies-table .div-tbl-col {
+        width: 100%;
+        display: block;
+        border-right: none;
+        padding: 15px 0px;
+        border-bottom: 1px solid rgb(230, 230, 230);
+    }
+
+}
